@@ -9,5 +9,5 @@ Feel free to use this hosts file to non-commercial personal ends, but realize th
 I can make no guarantee that hosts file will be updated, will block any particular domain or will not "break" your internet. 
 Using this hosts file constitutes your understanding and agreement that you are doing so completely at your own risk.
 
-In Windows the hosts file should go in C:\Windows\System32\drivers\etc\
-In Unix the hosts file should go in \etc\
+In Windows the hosts file should go in C:\Windows\System32\drivers\etc\  \
+In Unix the hosts file should go in /etc/
